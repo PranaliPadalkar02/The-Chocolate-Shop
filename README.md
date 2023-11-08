@@ -18,3 +18,17 @@ Tools for Data: We use tools or systems to collect all this data, making sure we
 Data's Purpose: Understanding why we're collecting this data and how it helps us figure out what's working well and what needs improvement.
 
 Data Flow: Knowing which data goes to the tools we're using so we can analyze it and make the website better.
+
+ # Goals
+• Increase Sales
+
+• Enhance Brand Awareness
+
+# Objectives
+Increase Monthly share
+
+Expand Product Catalog
+
+Grow Customer base
+
+Customer feedback & review
