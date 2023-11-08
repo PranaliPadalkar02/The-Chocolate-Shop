@@ -1,4 +1,4 @@
-# The-Chocolate-Shop-1
+# The-Chocolate-Shop 
 The chocolate shop was founded in 2010 by a group of chocolate enthusiasts who wanted to share their love of chocolate with the world. We are also dedicated to reducing our environmental impact, and have implemented a number of eco-friendly practices in our production process.
 
 # Measurement Plan
